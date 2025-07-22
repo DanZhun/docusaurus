@@ -1,0 +1,68 @@
+.header {
+  background: #fff;
+  padding: 1rem 2rem;
+  border-bottom: 1px solid #ddd;
+}
+
+.headerContainer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.logo {
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+.nav a {
+  margin: 0 1rem;
+  text-decoration: none;
+  color: var(--ifm-font-color-base);
+}
+
+.headerIcons img {
+  width: 24px;
+  margin-left: 1rem;
+  cursor: pointer;
+}
+
+.hero {
+  padding: 4rem 2rem;
+}
+
+.heroContent {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.heroImage {
+  max-width: 40%;
+}
+
+.heroText {
+  max-width: 50%;
+}
+
+.features {
+  padding: 3rem 1.5rem;
+  background-color: #f9f9f9;
+}
+
+.featuresGrid {
+  display: flex;
+  gap: 2rem;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.featureCard {
+  background: white;
+  border-radius: 8px;
+  padding: 1.5rem;
+  box-shadow: var(--ifm-global-shadow-lw);
+  max-width: 300px;
+  text-align: center;
+}
