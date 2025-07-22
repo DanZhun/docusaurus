@@ -93,7 +93,7 @@ const config = {
             position: 'left',
             label: '筆記',
           },
-          {to: '/#', label: '部落格', position: 'left'},
+          {to: '/blog', label: '部落格', position: 'left'},
           {to: 'https://danzhun.github.io/Resume/', label:'關於我', postion: 'left'},
          {
             href: '#',
