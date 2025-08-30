@@ -125,7 +125,7 @@ const config = {
             items: [
               {
                 label: 'GitHub',
-                href: '#',
+                href: 'https://github.com/DanZhun',
               },
               {
                 label: 'Linkedin',
