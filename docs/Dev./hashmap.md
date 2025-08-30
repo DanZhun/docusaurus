@@ -1,13 +1,14 @@
 ---
 title: 'Hashmap | 哈希表'
 label: 'hashmap'
-sidebar_position: 2
+sidebar_position: 3
 ---
 
 Hashmap | 哈希表
----
+===
 
 核心概念
+---
 
 想法：每個節點都是獨一無二的物件。
 
