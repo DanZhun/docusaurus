@@ -20,8 +20,7 @@ function HomepageHeader() {
             <strong>Dan Wu</strong> 的技術筆記
           </Heading>
           <p className={styles.heroSubtitle}>
-            這邊紀錄了我在軟體技術領域中的學習紀錄與實踐經歷，<br />
-            分享我的觀點與解決過程。
+            這邊紀錄了我在軟體技術領域中的學習紀錄與實踐經歷。<br />
           </p>
           <div className={styles.buttons}>
             <Link
